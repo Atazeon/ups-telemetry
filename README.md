@@ -1,6 +1,6 @@
 # Server Room UPS Telemetry Dashboard
 
-A lightweight, robust PowerShell automation tool that pulls real-time environmental and internal health data from a server room UPS via SNMP, and automatically publishes it to a live GitHub Pages dashboard. 
+A lightweight PowerShell automation tool that pulls real-time environmental and internal health data from a server room UPS via SNMP, and automatically publishes it to a live GitHub Pages dashboard. 
 
 Built specifically to be resilient in strict enterprise and educational network environments.
 
